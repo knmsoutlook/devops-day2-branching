@@ -1,4 +1,4 @@
-# DevOps Day 2 – Branching Practice
+# DevOps Day 2 – Heading from feature-summary
 
 This repo is for practicing Git branches and merges.
 
