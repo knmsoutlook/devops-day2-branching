@@ -1,4 +1,4 @@
-# DevOps Day 2 – Heading from feature-heading
+# DevOps Day 2 – Final merged heading
 
 This repo is for practicing Git branches and merges.
 
